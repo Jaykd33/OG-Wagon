@@ -55,5 +55,5 @@ We hope this project inspires fellow students to get hands-on and create somethi
 ---
 
 🔗 **Presentation:** 
-![Presentation of Project](https://docs.google.com/presentation/d/1yO3c9xrBlB_pw-kfboFvNL3jDzxZ1VVe/edit?usp=sharing&ouid=102919266960781589457&rtpof=true&sd=true)  
+[Presentation of Project](https://docs.google.com/presentation/d/1yO3c9xrBlB_pw-kfboFvNL3jDzxZ1VVe/edit?usp=sharing&ouid=102919266960781589457&rtpof=true&sd=true)  
 
